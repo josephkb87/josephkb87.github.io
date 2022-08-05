@@ -11,16 +11,16 @@
  ####   For Python Basics  <a href="https://github.com/josephkb87/PythonBasics"> Go here</a> 
 
  ####  For Java & JavaScript Basic <a href="https://github.com/josephkb87/Java_JS_Basics_n_Projects">Go here</a> 
-
+  
   ####  Interested in Matlab Octave Only? <a href="https://github.com/josephkb87/Matlab_Octave">Go to this repo</a> 
-
+  
   ####  check out How Matlab & Octave work with Jupyter Notebooks<a href="https://github.com/josephkb87/JuMatOct">here</a> 
-
+  
   ####   For Verilog Basics <a href="https://github.com/josephkb87/VerilogBasics">Click here</a> 
-
+  
 ####   For Python working with SQL <a href="https://github.com/josephkb87/PySQLDB">Check out PythonSQL Basics</a> 
  
-
+  
 ####  I respect your privacy <a href="https://www.privacypolicygenerator.info/">Take a look at my Privacy Policy</a> 
   
   ####  For fair usage please read through <a href="https://www.termsandconditionsgenerator.com/live.php?token=KlLRN36WWN5xtwgjex6GHzRi595mJs7U">The Terms & Conditions</a> 
