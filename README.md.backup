@@ -6,7 +6,7 @@
   🌱   Thank you for checking out my Profile 
 
  
-   ###  Please reach out and let us connect  <a href="https://github.com/josephkb87">Follow me for updates ;</a> 
+   ###  Please reach out and let us connect  <a href="https://github.com/josephkb87">Follow my Socials for updates ;</a> 
 
 ---
  ###  A tour of  my  Work starts <a href="https://github.com/josephkb87">here ;</a> 
