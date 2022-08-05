@@ -7,13 +7,7 @@
 
  
    ###  Please reach out and let us connect  <a href="https://github.com/josephkb87">On my Socials ;</a> 
-___
- 
-   #### My Gram
- #### I Tweet too
-  #### SnapOut
-  #### Keybase 
-  #### Blog here
+
 ---
  ###  A tour of  my  Work starts <a href="https://github.com/josephkb87">here ;</a> 
  
