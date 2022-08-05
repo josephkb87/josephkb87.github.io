@@ -6,7 +6,7 @@
   🌱   Thank you for checking out my Profile 
 
  
-   ###  Please reach out and let us connect  <a href="https://github.com/josephkb87">On my Socials ;</a> 
+   ###  Please reach out and let us connect  <a href="https://github.com/josephkb87">Follow me for updates ;</a> 
 
 ---
  ###  A tour of  my  Work starts <a href="https://github.com/josephkb87">here ;</a> 
@@ -31,9 +31,7 @@
   
   ####  For fair usage please read through <a href="https://www.termsandconditionsgenerator.com/live.php?token=KlLRN36WWN5xtwgjex6GHzRi595mJs7U">The Terms & Conditions</a> 
  ___
- ### More connections to the different Repos coing up.  follow me for updates on my socials below;
- 
-   
+ ####  More connections to the different Repos coming up. 
   
 
   <!---
