@@ -1,6 +1,7 @@
 ##  Hi, Welcome to my Official github Profile.
 
- ###  **I am Joseph**.👀 CS & Aero Undergrad👋 Applying Programming Science to AeroSpace.
+ **I am Joseph**.👀
+ **CS & Aero Undergrad👋 Applying Programming Science to AeroSpace** .
 
   ###  🌱  I will fork your repo :) while i learn from you.
 
