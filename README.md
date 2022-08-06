@@ -13,18 +13,19 @@
 ___ 
  For Shortcuts to; 
 ___
-  Python Basics  <a href="https://github.com/josephkb87/PythonBasics">Go here</a> 
+  <p>Python Basics  <a href="https://github.com/josephkb87/PythonBasics">Go here.</a> </p>
 
- Java & JavaScript Basic <a href="https://github.com/josephkb87/Java_JS_Basics_n_Projects">Go here</a> 
+<p> Java & JavaScript Basic <a href="https://github.com/josephkb87/Java_JS_Basics_n_Projects">Go here.</a> </p>
 
-Matlab & Octave Only? <a href="https://github.com/josephkb87/Matlab_Octave">Go to this repo</a> 
+<p>Matlab & Octave Only? <a href="https://github.com/josephkb87/Matlab_Octave">Go to this repo.</a> </p>
 
-Matlab & Octave with Jupyter Notebooks<a href="https://github.com/josephkb87/JuMatOct">here</a> 
+<p> Matlab & Octave with Jupyter Notebooks<a href="https://github.com/josephkb87/JuMatOct">Go here.</a> </p>
 
- Verilog Basics <a href="https://github.com/josephkb87/VerilogBasics">Click here</a> 
+<p> Verilog Basics <a href="https://github.com/josephkb87/VerilogBasics">Click here.</a> </p>
 
- Python with SQL <a href="https://github.com/josephkb87/PySQLDB">Check out PythonSQL Basics</a> 
-___
+ <p>Python with SQL <a href="https://github.com/josephkb87/PySQLDB">Check out PythonSQL Basics</a> </p>
+
+---
 Privacy Policy & Terms & Conditions
  
  Respect for your privacy  <a href="https://www.privacypolicygenerator.info/">Take a look at my Privacy Policy</a> 
