@@ -3,10 +3,10 @@
  **I am Joseph**.👀 **CS & Aero Engineering Undergrad👋 Applying Programming Science to AeroSpace** .
 
 ---
- 🌱 ** Thank you for checking out my Profile**
+<p> 🌱  Thank you for checking out my Profile </p>
 
  
-   Please reach out and let us connect  <a href="https://github.com/josephkb87">Follow my Socials for updates ;</a> 
+   <p> Please reach out and let us connect  <a href="https://github.com/josephkb87">Follow my Socials for updates ;</a> </p>
 
 ---
  A tour of  my  Work starts <a href="https://github.com/josephkb87">here ;</a> 
