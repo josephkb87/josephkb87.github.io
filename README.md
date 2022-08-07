@@ -9,9 +9,9 @@
    <p> Please reach out and let us connect  <a href="https://github.com/josephkb87">Follow my Socials for updates ;</a> </p>
 
 ---
- A tour of  my  Work starts <a href="https://github.com/josephkb87">here ;</a> 
+ A tour of  my  Work starts <a href="https://github.com/josephkb87">here;</a> 
  
- [Check out mySocials] (<a href=https://linktr.ee/jungbasher87)>LinkTree</a>)
+ Check out mySocials (<a href=https://linktr.ee/jungbasher87)>LinkTree.</a>
 
  <!--START_SECTION:waka--><!--END_SECTION:waka-->
  
