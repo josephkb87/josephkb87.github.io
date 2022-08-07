@@ -6,12 +6,12 @@
 <p> 🌱  Thank you for checking out my Profile </p>
 
  
-   <p> Please reach out and let us connect  <a href="https://github.com/josephkb87">Follow my Socials for updates ;</a> </p>
+<p> Please reach out and let us connect <a href="https://github.com/josephkb87">Follow my Socials for updates;</a> </p>
 
 ---
  A tour of  my  Work starts <a href="https://github.com/josephkb87">here;</a> 
  
- Check out my Socials <a href=https://linktr.ee/jungbasher87)>LinkTree.</a>
+ Check out my Socials <a href="https://linktr.ee/jungbasher87">LinkTree.</a>
 
  <!--START_SECTION:waka--><!--END_SECTION:waka-->
  
