@@ -11,7 +11,7 @@
 ---
  A tour of  my  Work starts <a href="https://github.com/josephkb87">here;</a> 
  
- Check out mySocials <a href=https://linktr.ee/jungbasher87)>LinkTree.</a>
+ Check out my Socials <a href=https://linktr.ee/jungbasher87)>LinkTree.</a>
 
  <!--START_SECTION:waka--><!--END_SECTION:waka-->
  
