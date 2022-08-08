@@ -1,7 +1,7 @@
-   Hi,👋  **I am Joseph**.👀. <p> 🌱  Thank you for checking out my Profile </p>
+   Hi,👋 **I am Joseph**.Welcome to my Github Official Site.
 
-Welcome to my Github Official Site.
----
+    🌱 <p> Thank you for checking out my Profile. </p>
+
 <p>  Check out my Socials on <a href="https://linktr.ee/jungbasher87">LinkTree.</a> </p>
 
 ---
