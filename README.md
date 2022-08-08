@@ -7,7 +7,31 @@
  🌱 A tour of  my  Work starts  <a href="https://github.com/josephkb87?tab=repositories">HERE;</a> 
 
    🌱  My Projects Are <a href="https://github.com/josephkb87?tab=projects">Here</a>
-___ 
+   
+ <a href="https://github.com/josephkb87/PythonBasics">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=josephkb87&repo=PythonBasics" />
+</a>
+
+<a href="https://github.com/github.com/josephkb87/Matlab_Octave">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=radical&repo=Matlab_Octave" />
+</a>
+
+<a href="https://github.com/josephkb87/Java_JS_Basics_n_Projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&repo=Java_JS_Basics_n_Projects" />
+</a>
+
+<a href="https://github.com/josephkb87/JuMatOct">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&repo=JuMatOct" />
+</a>
+
+<a href="https://github.com/josephkb87/VerilogBasics">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&repo=VerilogBasics" />
+</a>
+
+<a href="https://github.com/josephkb87/Filters">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&repo=Filters" />
+</a>
+
   [![Kiyini Joseph Balamazze's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephkb87&show_icons=true&show_icons=true&theme=radical)](https://github.com/josephkb87/github-readme-stats)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephkb87&langs_count=10&layout=compact)](https://github.com/josephkb87/github-readme-stats) 
