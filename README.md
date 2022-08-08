@@ -1,7 +1,5 @@
    Hi,👋 **I am Joseph**.Welcome to my Github Official Site.
 
-    🌱 <p> Thank you for checking out my Profile. </p>
-
 <p>  Reach out my Socials on <a href="https://linktr.ee/jungbasher87">LinkTree.</a> </p>
 ---
  🌱 A tour of  my  Work starts  <a href="https://github.com/josephkb87?tab=repositories">HERE;</a> 
@@ -9,7 +7,7 @@
    🌱  My Projects Are <a href="https://github.com/josephkb87?tab=projects">Here</a>
    
  <a href="https://github.com/josephkb87/PythonBasics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=josephkb87&show_icons=true&show_icons=true&theme=algolia&repo=PythonBasics" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=algolia&repo=PythonBasics" />
 </a>
 
 <a href="https://github.com/github.com/josephkb87/Matlab_Octave">
@@ -62,12 +60,9 @@ ___
 <p>  JavaScript Basics <a href="https://github.com/josephkb87/Java_JS_Basics_n_Projects">Go here.</a> </p>
  
  <p> Java Basics <a href="https://github.com/josephkb87/JavaBasis">Go here</a> </p>
- 
-My  <a href="https://www.privacypolicygenerator.info/">Privacy Policy</a> 
 
-For Fair usage <a href="https://www.termsandconditionsgenerator.com/live.php?token=KlLRN36WWN5xtwgjex6GHzRi595mJs7U"> Terms & Conditions.</a> 
 ___
-
+🌱 <p> Thank you for checking out my Profile. </p>
    <!---
   josephkb87/josephkb87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   You can click the Preview link to take a look at your changes.
