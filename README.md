@@ -2,7 +2,7 @@
 
     🌱 <p> Thank you for checking out my Profile. </p>
 
-<p>  Check out my Socials on <a href="https://linktr.ee/jungbasher87">LinkTree.</a> </p>
+<p>  Reach out my Socials on <a href="https://linktr.ee/jungbasher87">LinkTree.</a> </p>
 ---
  🌱 A tour of  my  Work starts  <a href="https://github.com/josephkb87?tab=repositories">HERE;</a> 
 
