@@ -1,40 +1,37 @@
-   Hi,👋 **I am Joseph**.Welcome to my Github Official Site.
+   Hi,👋 **I am Joseph**.Welcome to my GitHub Official Site.
 
-<p>  Reach out my Socials on <a href="https://linktr.ee/jungbasher87">LinkTree.</a> </p>
----
- 🌱 My <a href="https://github.com/josephkb87?tab=repositories">Work,</a>🌱  My <a href="https://github.com/josephkb87?tab=projects">Projects</a>
+🌱  <a href="https://josephkb87.github.io">About Me.</a> My <a href="https://linktr.ee/jungbasher87"> Socials.</a> 🌱 My <a href="https://github.com/josephkb87?tab=repositories">Work,</a>🌱  My <a href="https://github.com/josephkb87?tab=projects">Projects</a>
+
+I work with; <a href="https://spacegeneration.org/regions/africa/uganda">S.G.A.C as NPoC_Uganda </a>🌱 <a href="https://wcrc.world/Files/WCRC_POC.pdf">W.C.R.C. as PoC_Uganda</a>
+
+🌱As me about; <a href="https://github.com/LUCIDWEBHOSTING">LucidWebhosting.</a>🌱 <a href="https://github.com/CORENAUTICS">CoreNauTiX.</a> 🌱<a href="https://github.com/OASSP">O.A.S.S.P.</a>🌱<a href="https://github.com/OASSP/EA_NPTHEL_Home">EA-NPTHEL</a>
 ___   
 Shortcuts to;
 
-  <p> 🌱<a href="https://github.com/josephkb87/PythonBasics">Python Basics.</a>🌱<a href="https://github.com/josephkb87/Filters">Filters & More, </a> 🌱 <a href="https://github.com/josephkb87/PythonSQLDB">Python SQL.</a> 🌱 <a href="https://github.com/josephkb87/Matlab_Octave">Matlab & Octave?</a> 
+🌱<a href="https://github.com/josephkb87/PythonBasics">Python Basics.</a>🌱<a href="https://github.com/josephkb87/Filters">Filters & More, </a> 🌱 <a href="https://github.com/josephkb87/PythonSQLDB">Python SQL.</a> 🌱 <a href="https://github.com/josephkb87/Matlab_Octave">Matlab & Octave?</a> 
 
 🌱 <a href="https://github.com/josephkb87/JuMatOct">Matlab & Octave with Jupyter Notebooks.</a> 
 🌱<a href="https://github.com/josephkb87/ANSI_C_Go">C ANSI Library with Worked Exercises.</a>
 🌱 <a href="https://github.com/josephkb87/VerilogBasics">For Verilog </a> 🌱 <a href="https://github.com/josephkb87/Java_JS_Basics_n_Projects">JavaScript Basics.</a>🌱<a href="https://github.com/josephkb87/JavaBasis">Java Basics</a> </p>
 ___
 <a href="https://github.com/josephkb87/PythonBasics">
-  <img align="center right" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=algolia&repo=PythonBasics" />
-</a>
-
-<a href="https://github.com/josephkb87/Matlab_Octave">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=algolia&repo=PythonBasics" />
+</a> <a href="https://github.com/josephkb87/Matlab_Octave">
   <img align="center right" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=gruvbox&repo=Matlab_Octave" />
 </a>
 
-<a href="https://github.com/josephkb87/Java_JS_Basics_n_Projects">
-  <img align="center left" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=solarized-light&repo=Java_JS_Basics_n_Projects" />
-</a>
-
-<a href="https://github.com/josephkb87/JuMatOct">
+<a href="https://github.com/josephkb87/Filters">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=solarized-dark&repo=Filters" />
+</a> <a href="https://github.com/josephkb87/JuMatOct">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=nightowl&repo=JuMatOct" />
 </a>
 
 <a href="https://github.com/josephkb87/VerilogBasics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=&repo=VerilogBasics" />
+  <img align="center left" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=&repo=VerilogBasics" />
+</a> <a href="https://github.com/josephkb87/Java_JS_Basics_n_Projects">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=solarized-light&repo=Java_JS_Basics_n_Projects" />
 </a>
 
-<a href="https://github.com/josephkb87/Filters">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=solarized-dark&repo=Filters" />
-</a>
 
   [![Kiyini Joseph Balamazze's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephkb87&show_icons=true&show_icons=true&theme=synthwave&show_icons=true)](https://github.com/josephkb87/github-readme-stats)
 
@@ -47,7 +44,7 @@ ___
 
   <!--END_SECTION:waka-->
  ___
-🌱 <p> Thank you for checking out my Profile. </p>
+🌱 Thank you for checking out my Profile.
    <!---
   josephkb87/josephkb87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   You can click the Preview link to take a look at your changes.
