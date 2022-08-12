@@ -2,24 +2,30 @@
 
 <p>  Reach out my Socials on <a href="https://linktr.ee/jungbasher87">LinkTree.</a> </p>
 ---
- 🌱 A tour of  my  Work starts  <a href="https://github.com/josephkb87?tab=repositories">HERE;</a> 
+ 🌱 My <a href="https://github.com/josephkb87?tab=repositories">Work,</a>🌱  My <a href="https://github.com/josephkb87?tab=projects">Projects</a>
+___   
+Shortcuts to;
 
-   🌱  My Projects Are <a href="https://github.com/josephkb87?tab=projects">Here</a>
-   
- <a href="https://github.com/josephkb87/PythonBasics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=algolia&repo=PythonBasics" />
+  <p> 🌱<a href="https://github.com/josephkb87/PythonBasics">Python Basics.</a>🌱<a href="https://github.com/josephkb87/Filters">Filters & More, </a> 🌱 <a href="https://github.com/josephkb87/PythonSQLDB">Python SQL.</a> 🌱 <a href="https://github.com/josephkb87/Matlab_Octave">Matlab & Octave?</a> 
+
+🌱 <a href="https://github.com/josephkb87/JuMatOct">Matlab & Octave with Jupyter Notebooks.</a> 
+🌱<a href="https://github.com/josephkb87/ANSI_C_Go">C ANSI Library with Worked Exercises.</a>
+🌱 <a href="https://github.com/josephkb87/VerilogBasics">For Verilog </a> 🌱 <a href="https://github.com/josephkb87/Java_JS_Basics_n_Projects">JavaScript Basics.</a>🌱<a href="https://github.com/josephkb87/JavaBasis">Java Basics</a> </p>
+___
+<a href="https://github.com/josephkb87/PythonBasics">
+  <img align="center right" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=algolia&repo=PythonBasics" />
 </a>
 
 <a href="https://github.com/josephkb87/Matlab_Octave">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=gruvbox&repo=Matlab_Octave" />
+  <img align="center right" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=gruvbox&repo=Matlab_Octave" />
 </a>
 
 <a href="https://github.com/josephkb87/Java_JS_Basics_n_Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=solarized-light&repo=Java_JS_Basics_n_Projects" />
+  <img align="center left" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=solarized-light&repo=Java_JS_Basics_n_Projects" />
 </a>
 
 <a href="https://github.com/josephkb87/JuMatOct">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=nightowl&repo=JuMatOct" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=nightowl&repo=JuMatOct" />
 </a>
 
 <a href="https://github.com/josephkb87/VerilogBasics">
@@ -41,27 +47,6 @@
 
   <!--END_SECTION:waka-->
  ___
- Shortcuts to; 
-___
-  <p> Python Basics <a href="https://github.com/josephkb87/PythonBasics"> Go here. </a> </p>
- 
-  <p>Kallmann Filters &More  <a href="https://github.com/josephkb87/Filters">Filters &More. </a> </p>
- 
- <p> Python SQL <a href="https://github.com/josephkb87/PythonSQLDB">Go here.</a> </p>
- 
- <p> Matlab  & Octave? <a href="https://github.com/josephkb87/Matlab_Octave">Go here.</a> </p>
-
-<p> Matlab & Octave with Jupyter Notebooks<a href="https://github.com/josephkb87/JuMatOct">Go Here.</a> </p>
-
- <p> C ANSI Library with Worked Exercises<a href="https://github.com/josephkb87/ANSI_C_Go"></a> Go here.</p>
- 
- <p>For Verilog <a href="https://github.com/josephkb87/VerilogBasics">Click here.. </a> </p>
-
-<p>  JavaScript Basics <a href="https://github.com/josephkb87/Java_JS_Basics_n_Projects">Go here.</a> </p>
- 
- <p> Java Basics <a href="https://github.com/josephkb87/JavaBasis">Go here</a> </p>
-
-___
 🌱 <p> Thank you for checking out my Profile. </p>
    <!---
   josephkb87/josephkb87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
