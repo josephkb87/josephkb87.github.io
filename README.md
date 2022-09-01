@@ -1,6 +1,6 @@
    Hi,👋 **I am Joseph**.Welcome.
 
-🌱  <a href="https://josephkb87.github.io"> Me.</a> My <a href="https://linktr.ee/jungbasher87"> Socials.</a> 🌱<a href="https://github.com/josephkb87?tab=repositories">Works,</a>🌱  My <a href="https://github.com/josephkb87?tab=projects">Projects i </a>
+🌱  <a href="https://josephkb87.github.io"> Me.</a> My <a href="https://linktr.ee/jungbasher87"> Socials.</a> 🌱<a href="https://github.com/josephkb87?tab=repositories">Works,</a>🌱  My <a href="https://github.com/josephkb87?tab=projects">Projects </a>
 
 I work with; <a href="https://spacegeneration.org/regions/africa/uganda">S.G.A.C as NPoC_Uganda </a>🌱 <a href="https://wcrc.world/Files/WCRC_POC.pdf">W.C.R.C. as PoC_Uganda</a>
 
