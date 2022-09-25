@@ -8,17 +8,20 @@ I work with; <a href="https://spacegeneration.org/regions/africa/uganda">S.G.A.C
 ___   
 Shortcuts to;
 
-🌱<a href="https://github.com/josephkb87/PythonBasics">Python Basics.</a>🌱<a href="https://github.com/josephkb87/Filters">Filters & More, </a> 🌱 <a href="https://github.com/josephkb87/PythonSQLDB">Python SQL.</a> 🌱 <a href="https://github.com/josephkb87/Matlab_Octave">Matlab & Octave?</a> 
+🌱 <a href="https://github.com/josephkb87/PythonBasics">Python Basics.</a>
+🌱 <a href="https://github.com/josephkb87/Filters">Filters & More. </a> 
+🌱 <a href="https://github.com/josephkb87/PythonSQLDB">Python SQL.</a> 
+🌱 <a href="https://github.com/josephkb87/Matlab_Octave">Matlab & Octave</a> 
 
 🌱 <a href="https://github.com/josephkb87/JuMatOct">Matlab & Octave with Jupyter Notebooks.</a> 
-🌱<a href="https://github.com/josephkb87/ANSI_C_Go">C ANSI Library with Worked Exercises.</a>
-🌱 <a href="https://github.com/josephkb87/VerilogBasics">For Verilog </a> 🌱 <a href="https://github.com/josephkb87/Java_JS_Basics_n_Projects">JavaScript Basics.</a>🌱<a href="https://github.com/josephkb87/JavaBasis">Java Basics</a> </p>
+🌱 <a href="https://github.com/josephkb87/ANSI_C_Go">C ANSI Library with Worked Exercises.</a>
+🌱 <a href="https://github.com/josephkb87/VerilogBasics">For Verilog </a> 
+🌱 <a href="https://github.com/josephkb87/Java_JS_Basics_n_Projects">JavaScript Basics.</a>
+🌱<a href="https://github.com/josephkb87/JavaBasis">Java Basics</a> </p>
 ___
-<a href="https://github.com/josephkb87/PythonBasics">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=algolia&repo=PythonBasics" />
-</a> <a href="https://github.com/josephkb87/Matlab_Octave">
-  <img align="center right" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=gruvbox&repo=Matlab_Octave" />
-</a>
+<a href="https://github.com/josephkb87/PythonBasics"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=algolia&repo=PythonBasics" /></a> 
+
+<a href="https://github.com/josephkb87/Matlab_Octave"><img align="center right" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=gruvbox&repo=Matlab_Octave" /></a>
 
 <a href="https://github.com/josephkb87/Filters">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=solarized-dark&repo=Filters" />
