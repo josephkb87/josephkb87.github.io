@@ -1,6 +1,19 @@
    Hi,👋 **I am Joseph**.Welcome.
 
+<<<<<<< Updated upstream
 🌱  <a href="https://josephkb87.github.io"> Me.</a> My <a href="https://linktr.ee/jungbasher87"> Socials.</a> 🌱<a href="https://github.com/josephkb87?tab=repositories">Works,</a>🌱  My <a href="https://github.com/josephkb87?tab=projects">Projects </a>
+=======
+🌱  <a href="https://josephkb87.github.io">Me.</a> <a href="https://linktr.ee/jungbasher87"> My Socials.</a> 🌱 My <a href="https://github.com/josephkb87?tab=repositories">Work,</a>🌱  <a href="https://github.com/josephkb87?tab=projects">My  Projects</a>
+>>>>>>> Stashed changes
+
+🌱   </p>
+
+<a href="https://www.buymeacoffee.com/josephkb87" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>  🌱</div>
+
+- If you can spare a few 💵,<a href="https://github.com/sponsors/josephkb87">Sponsor My Work By:.</a>
+
+  - [Buying me a coffee:](https://www.buymeacoffee.com/josephkb87) (one-time),
+  - or [Sponsor me on GitHub](https://github.com/sponsors/josephkb87) (recurring monthly).
 
 I work with; <a href="https://spacegeneration.org/regions/africa/uganda">S.G.A.C as NPoC_Uganda </a>🌱 <a href="https://wcrc.world/Files/WCRC_POC.pdf">W.C.R.C. as PoC_Uganda</a>
 
@@ -17,29 +30,21 @@ Hi, 👋. Welcome.
 
 <a href="https://twitter.com/josephkb87"><img src="https://img.shields.io/twitter/follow/clydekingkid.svg?style=social" alt="Twitter Follow"></a>
  
- <div> 🌱
-  <a href="https://www.buymeacoffee.com/josephkb87" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>  🌱</div>
-
-- If you can spare a few 💵:
-
-  - [Buy me a coffee :coffee:](https://www.buymeacoffee.com/josephkb87) (one-time),
-  - or [Sponsor me on GitHub](https://github.com/sponsors/josephkb87) (recurring monthly).
-
+ <div>
 - Tell me you like this project or how it helped you out!
 
   - [Comment in the project's guestbook](https://github.com/josephkb87/app-privacy-policy-generator/issues/) :blush:,
   - Reach out on [Twitter](https://twitter.com/clydekingkid),
-  - or [send a nice email my way](mailto:kiyinijoseph@gmail@gmail.com)!
+  - or [send a nice email my way](mailto:kiyinijoseph@gmail.com)!
 ___   
 Shortcuts to;
 
 🌱 <a href="https://github.com/josephkb87/PythonBasics">Python Basics.</a>
-🌱 <a href="https://github.com/josephkb87/Filters">Filters & More. </a> 
 🌱 <a href="https://github.com/josephkb87/PythonSQLDB">Python SQL.</a> 
-🌱 <a href="https://github.com/josephkb87/Matlab_Octave">Matlab & Octave</a> 
+🌱 <a href="https://github.com/josephkb87/Matlab_Octave">Matlab & Octave</a>
+🌱 <a href="https://github.com/josephkb87/Filters">Filters & More. </a>
 
-🌱 <a href="https://github.com/josephkb87/JuMatOct">Matlab & Octave with Jupyter Notebooks.</a> 
-🌱 <a href="https://github.com/josephkb87/ANSI_C_Go">C ANSI Library with Worked Exercises.</a>
+🌱 <a href="https://github.com/josephkb87/JuMatOct">Matlab & Octave with Jupyter Notebooks.</a>
 🌱 <a href="https://github.com/josephkb87/VerilogBasics">For Verilog </a> 
 🌱 <a href="https://github.com/josephkb87/Java_JS_Basics_n_Projects">JavaScript Basics.</a>
 🌱<a href="https://github.com/josephkb87/JavaBasis">Java Basics</a> </p>
