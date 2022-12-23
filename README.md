@@ -1,7 +1,4 @@
    Hi,👋 .Welcome.
-
-<<<<<<< HEAD
-<<<<<<< Updated upstream
 🌱  <a href="https://josephkb87.github.io"> Me.</a> My <a href="https://linktr.ee/jungbasher87"> Socials.</a> 🌱<a href="https://github.com/josephkb87?tab=repositories">Works,</a>🌱  My <a href="https://github.com/josephkb87?tab=projects">Projects </a>
 =======
 🌱  <a href="https://josephkb87.github.io">Me.</a> <a href="https://linktr.ee/jungbasher87"> My Socials.</a> 🌱 My <a href="https://github.com/josephkb87?tab=repositories">Work,</a>🌱  <a href="https://github.com/josephkb87?tab=projects">My  Projects</a>
