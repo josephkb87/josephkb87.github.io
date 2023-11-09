@@ -12,7 +12,7 @@
         steps:
           - uses: athul/waka-readme@master
             with:
-              WAKATIME_API_KEY: ${{ secrets.af586bc5-b42e-4f56-a59d-4991b2e8865b }}
+              WAKATIME_API_KEY: ${{ secrets.waka_c52c528c-a69d-4f7c-b618-3b435596b1a1 }}
               # following flags are required, only if this is not on
               # profile readme, remove the leading `#` to use them
               #GH_TOKEN: ${{ secrets.GH_TOKEN }}
