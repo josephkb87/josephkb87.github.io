@@ -1,7 +1,4 @@
-# Welcome 👋.
-
-
-Hi,👋  Thanks for visiting <a href="https://github.com/josephkb87"> My Profile</a>.
+Hi,👋 Welcome 👋. Thanks for visiting <a href="https://github.com/josephkb87"> My Profile</a>.
 
 ## About Me.
 
