@@ -1,5 +1,3 @@
-##
-Updates to the gh-pages will be added here soon.
 
 <p> <a href="https://github.com/josephkb87">About Me</a> .<p> I work with; <a href="https://spacegeneration.org/regions/africa/uganda">S.G.A.C as N.P.o.C Uganda </a> & with <a href="https://wcrc.world/Files/WCRC_POC.pdf">W.C.R.C. as PoC_Uganda</a> </p>
 <p> I am a Team member of; <a href="https://github.com/OASSP">O.A.S.S.P</a>  <a href="https://github.com/LUCIDWEBHOSTING">LucidWebhosting</a> <a href="https://github.com/CORENAUTICS">CoreNauTiX</a></p>
