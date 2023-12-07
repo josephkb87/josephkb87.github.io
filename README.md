@@ -6,16 +6,15 @@ Updates to the gh-pages will be added here soon.
 
 ## About My Work.
  <div>
-<p> <a href="https://github.com/josephkb87?tab=repositories">My Work</a> . <a href="https://github.com/josephkb87?tab=projects"> Projects </a> Work Templates
+<p> <a href="https://github.com/josephkb87?tab=repositories">My Work</a> . <a href="https://github.com/josephkb87?tab=projects"> Projects </a>
 </div
 ___
-If you can spare a few 💵:[Buy me a coffee :coffee:](https://www.buymeacoffee.com/josephkb87) (one-time) OR [Sponsor me :😊:](https://github.com/sponsors/josephkb87) (recurring monthly).
 
 [Comment in the project's guestbook](https://github.com/josephkb87/josephkb87?tab=repositories/issues/)
 
 Reach out on [Twitter](https://twitter.com/clydekingkid) or [send a nice email my way :wink:](mailto:kiyinijoseph@gmail.com)!
 
-[![Kiyini Joseph Balamazze's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HermesWraith&langs_count=10&layout=compact&show_icons=true&show_icons=true&theme=buefy&show_icons=true)](https://github.com/josephkb87/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephkb87&show_icons=true&theme=tokyonight&langs_count=10&layout=compact)](https://github.com/josephkb87/github-readme-stats) 
+[![Kiyini Joseph Balamazze's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=josephkb&langs_count=10&layout=compact&show_icons=true&show_icons=true&theme=buefy&show_icons=true)](https://github.com/josephkb87/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephkb87&show_icons=true&theme=tokyonight&langs_count=10&layout=compact)](https://github.com/josephkb87/github-readme-stats) 
 
  [![Kiyini Joseph Balamazze's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephkb87&show_icons=true&show_icons=true&theme=synthwave&show_icons=true)](https://github.com/josephkb87/github-readme-stats)
 ___
@@ -33,7 +32,3 @@ ___
   <!--START_SECTION:waka-->
 
   <!--END_SECTION:waka-->
-
-  Thank you.
-  [@josephkb87](https://github.com/josephkb87)
-
