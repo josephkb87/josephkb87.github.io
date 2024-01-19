@@ -15,9 +15,11 @@ If you can spare a few 💵:[Buy me a coffee :coffee:](https://www.buymeacoffee.
 
 Reach out on [Twitter](https://twitter.com/clydekingkid) or [send a nice email my way :wink:](mailto:kiyinijoseph@gmail.com)!
 
-[![Kiyini Joseph Balamazze's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HermesWraith&langs_count=10&layout=compact&show_icons=true&show_icons=true&theme=buefy&show_icons=true)](https://github.com/josephkb87/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephkb87&show_icons=true&theme=tokyonight&langs_count=10&layout=compact)](https://github.com/josephkb87/github-readme-stats) 
-
+[![Kiyini Joseph Balamazze's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=josephkb&langs_count=10&layout=compact&show_icons=true&show_icons=true&theme=buefy&show_icons=true)](https://github.com/josephkb87/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephkb87&show_icons=true&theme=tokyonight&langs_count=10&layout=compact)](https://github.com/josephkb87/github-readme-stats) 
+[![Kiyini Joseph Balamazze's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephkb87&show_icons=true&show_icons=true&theme=synthwave&show_icons=true)](https://github.com/josephkb87/github-readme-stats)
  [![Kiyini Joseph Balamazze's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephkb87&show_icons=true&show_icons=true&theme=synthwave&show_icons=true)](https://github.com/josephkb87/github-readme-stats)
+
 ___
  <div>
 <p><a href="https://github.com/josephkb87/Matlab & Octave with Jupyter Notebooks"><img align="center right" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=gruvbox&repo=JuMatOct" /></a>. <a href="https://github.com/josephkb87/PythonBasics"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=josephkb87&show_icons=true&show_icons=true&theme=algolia&repo=PythonBasics" /></a> </p> </div>
